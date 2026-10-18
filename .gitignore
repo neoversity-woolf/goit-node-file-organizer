@@ -1,0 +1,23 @@
+# Залежності Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.zip
+.git/
+
+# Системні та тимчасові файли ОС
+.DS_Store
+Thumbs.db
+*~
+
+# Середовище та конфігурація IDE
+.env
+.env.local
+.vscode/
+.idea/
+
+# Тимчасові тестові директорії
+test-downloads/
+test-organized/
